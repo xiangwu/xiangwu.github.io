@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal academic site"
+title                    : "Advanced Sensing & Interactive Research"
 title_separator          : "-"
 name                     : &name "Dr.Xiangwu"
 description              : &description "42"
@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Dr.Xiang Wu"
   pronouns         : "Dr./Mr."# example: "she/her"  
-  bio              : "Founder of ASIR gruoup and Wevisio Co.,ltd"
+  bio              : "Founder of ICAR/ASIR Gruoup and  Wevisio Co.,ltd"
   location         : "China"
   employer         : "Henan University of Technology"
-  uri              : "https://xiangwu.github.io"# URL
+  # uri              : "https://xiangwu.github.io"# URL
   email            : "xiangw@haut.edu.cn" 
 
   # Academic websites
