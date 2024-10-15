@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -35,7 +35,7 @@ Work experience
 * 2009: Intern (for 3D Sensing Project)
   * Microsoft Research Asia
   * Hardware Computing Group
-  * Supervisor: Chunhui ZHANG
+  * Supervisor: Dr.Chunhui ZHANG
 
  
 Skills & Academic Works
@@ -49,13 +49,11 @@ Skills & Academic Works
 Academic Projects
 ======
 * The National Natural Science Foundation of China 2022-2025
-  Research on rational model error compensation mechanism and network deployment method of structured light sensor
-  – Major Participant, responsible of software architecture and key algorithm
-  – on the topic of 3D reconstructing for industry manufacture
+  * Research on rational model error compensation mechanism and network deployment method of structured light sensor
+  * Major Participant, responsible of software architecture and key algorithm on the topic of 3D reconstructing for industry manufacture
 * The Natural Science Foundation of Henan Province 2017-2019
-  Research on self-calibration and self-planning of re-manufacturing robot system
-  – Project Leader,responsible of team organization, tech-road map, and key algorithm
-  – on the topic of industrial robictics application
+  * Research on self-calibration and self-planning of re-manufacturing robot system
+  * Project Leader,responsible of team organization, tech-road map, and key algorithm on the topic of industrial robictics application
 
 Service and leadership
 ======
