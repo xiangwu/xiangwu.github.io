@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About ASIR/ICAR and relative Infos"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,5 +15,7 @@ Research group direction: Perceptual Application and human-computer interaction 
  1. Vision inspection technology for advanced manufacturing, robot control and motion planning, multi-target detection and collaborative control;
  2. Image processing and computer vision technology applied to human-computer interaction, AI-assisted design and interdisciplinary data analysis and creation.
 Head of ASIR: Dr. Xiang Wu
+
 # About ICAR
 Interdisciplinary Creative Application Research is initiated by Dr. Xiang Wu in 2020, is an open innovation research platform that brings together researchers, professors, and expert teams from different institutions to work collaboratively on interdisciplinary applied research.
+For now, ICAR consist of two research groups, ASIR and URLAR. 
