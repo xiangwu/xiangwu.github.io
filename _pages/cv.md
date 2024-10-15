@@ -57,8 +57,6 @@ Academic Projects
   – Project Leader,responsible of team organization, tech-road map, and key algorithm
   – on the topic of industrial robictics application
 
-
-
 Service and leadership
 ======
 * Up2x Program including interdisciplinary research, workshop, and industry survey (’Up2x’ stands for upgrade in practice for Young’s in 20s)
