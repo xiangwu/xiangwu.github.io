@@ -11,35 +11,61 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Control Science and Engineering, Dalian Maritime University, 2011
+* M.S. in Control Theory and Control Engineering, Dalian Maritime University, 2008
+* B.S. in Automation, Dalian Maritime University, 2006
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2011-now: Lecturer/Assistant Professor, Chief of ASIR
+  * Henan University of Technology
+  * College of Electrical Engineering
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-2023: Founder & Organizer
+  * GD-POLAR Cowork Space, Zhengzhou, China
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* 2015-now : Founder & Chief Researcher 
+  * Zhengzhou Wevisuo Infomation Sci-Tech Co.,Ltd
+
+* 2017-2018: Senior Visting Scholor
+  * Lakehead University, Canada
+  * Support by CSC
+  * Cooperator: Prof. Xiaoping LIU
+
+* 2009: Intern (for 3D Sensing Project)
+  * Microsoft Research Asia
+  * Hardware Computing Group
+  * Supervisor: Chunhui ZHANG
+
+ 
+Skills & Academic Works
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Control Theory and Application
+* Computer Vision
+* Robotics Application
+* Software Architecture
+* Data analysis and visulization
+
+Academic Projects
+======
+* The National Natural Science Foundation of China 2022-2025
+  Research on rational model error compensation mechanism and network deployment method of structured light sensor
+  – Major Participant, responsible of software architecture and key algorithm
+  – on the topic of 3D reconstructing for industry manufacture
+* The Natural Science Foundation of Henan Province 2017-2019
+  Research on self-calibration and self-planning of re-manufacturing robot system
+  – Project Leader,responsible of team organization, tech-road map, and key algorithm
+  – on the topic of industrial robictics application
+
+
+
+Service and leadership
+======
+* Up2x Program including interdisciplinary research, workshop, and industry survey (’Up2x’ stands for upgrade in practice for Young’s in 20s)
+* Establish the Co-work Platform from scratch
+* Evaluating the candidate projects and talents applying for admission into GDPOLAR Co-work Space
+* More than 200 college students, 30+ young researchers, and 15+ companies and research institutions taking
+activities in
 
 Publications
 ======
@@ -59,6 +85,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
