@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ------
 
-# Journals
+Journals
 ======
 [1] X. Wu, Z. Ma, Y. Hu, and W.-B. Wang, “Filed complete calibration methods of flexible restoration system for broken work pieces,” Jisuanji Jicheng Zhizao Xitong/Computer Integrated Manufacturing Systems, CIMS, vol. 17, no. 11, pp. 2415–2420, 2011.
 
@@ -57,7 +57,7 @@ author_profile: true
 [24] Y. Cao, J. Gu, Y. Zang, X. Wu, S. Zhang, and M. Guo, “Path planning-oriented obstacle avoidingworkspace modelling for robot manipulator,” International Journal of Robotics and Automation, vol. 34, no. 1, pp. 1–16, 2019.
 
 
-# Conference
+Conference
 ======
 [1] T. Yang, H. Zhang, S. Zhang, X. Wu, Y. Qiu, and J. Zhang, “Design and Modeling of A Trapezoidal Leaf Spring-Based Actuators with Valid Arm Length and Bending Deformation for Stiffness Adjustment,” in Proceedings of the 3rd Conference on Fully Actuated System Theory and Applications, FASTA 2024, 2024, pp. 121–126.
 
