@@ -5,7 +5,7 @@ permalink: /members/
 author_profile: true
 # redirect_from:
 #  - /resume
-
+---
 
 Up24 / 2024
 ======
