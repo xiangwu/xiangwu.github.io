@@ -10,12 +10,11 @@ Xiang Wu, male, born in 1983, PhD in engineering, master's tutor, lecturer. Zhen
 
 In recent years, I had hosted and participated in more than 10 national natural science foundation projects, provincial natural science foundation projects, provincial science and technology department key technology research and development projects, and provincial natural science projects. He has obtained more than 20 intellectual property rights, including patents for invention, utility models, and software copyrights, 10 domestic pioneering and advanced appraisal achievements, and a Science and Technology Progress Award of Henan Province. He has published more than 30 SCI/EI indexed papers.
 
-ASIR now is also responsible for runing the ORBBEC Lighting Space of Henan University of Technology, a branch of academic club oriented by [ORBBEC Co.,Ltd](https://www.orbbec.com/). 
-
 # ASIR
 ASIR, stands for  Advanced Sensing and Interacting Research, created by Dr. Xiang Wu. It focuses on: Perceptual Application and human-computer interaction based on computer vision and robot control technology, incluces:
 
  1. Vision inspection technology for advanced manufacturing, robot control and motion planning, multi-target detection and collaborative control;
+ 
  2. Image processing and computer vision technology applied to human-computer interaction, AI-assisted design and interdisciplinary data analysis and creation.
 
 ## Up2x 

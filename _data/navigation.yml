@@ -3,8 +3,8 @@ main:
   - title: "News"
     url: /news/
 
-  - title: "Members"
-    url: /members/
+ # - title: "Members"
+ #   url: /members/
 
   - title: "Up2x"
     url: /up2x/

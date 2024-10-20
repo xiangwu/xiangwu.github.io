@@ -75,7 +75,7 @@ Shuoning Wang (王铄宁)，
 Lu Yang (杨露)，
 Tailinke Yang (杨台琳珂)
 
-Up20 / 2020
+2020/Up20
 ======
 Xiang Fang (方翔)，
 Xingsa Chen (陈星飒)，
