@@ -18,6 +18,9 @@ ASIR, stands for  Advanced Sensing and Interacting Research, created by Dr. Xian
  1. Vision inspection technology for advanced manufacturing, robot control and motion planning, multi-target detection and collaborative control;
  2. Image processing and computer vision technology applied to human-computer interaction, AI-assisted design and interdisciplinary data analysis and creation.
 
+## Up2x 
+ Up2x activities is supported by ASIR, intends to build a platform for graduate and undergaduate students upgrading their academic and practical skills. All the paticipants is listed [here](url:/members/)
+
 
 ## ICAR
 Interdisciplinary Creative Application Research is initiated by Dr. Xiang Wu in 2020, is an open innovation research platform that brings together researchers, professors, and expert teams from different institutions to work collaboratively on interdisciplinary applied research.
