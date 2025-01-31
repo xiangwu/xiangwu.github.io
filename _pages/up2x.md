@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Up2x"
-permalink: /Up2x/
+permalink: /up2x/
 author_profile: true
 # redirect_from:
 #  - /resume
