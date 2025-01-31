@@ -3,9 +3,10 @@ layout: archive
 title: "Up2x"
 permalink: /up2x/
 author_profile: true
-# redirect_from:
+redirect_from:
 #  - /resume
 ---
+{% include base_path %}
 
 # Up2x
 Up2x is an activity for undergratuates and graduates in different universities envoled in creative researchs and pracices. 

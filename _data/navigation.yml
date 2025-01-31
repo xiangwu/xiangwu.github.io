@@ -8,9 +8,11 @@ main:
 
   - title: "Course & Tutorials"
     url: /teaching/ 
-    
+
   - title: "Publications"
     url: /publications/
+
+    
   #- title: "News"
   #  url: /news/
 
