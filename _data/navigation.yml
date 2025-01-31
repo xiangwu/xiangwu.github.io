@@ -1,19 +1,27 @@
 # main links links
 main:
-  - title: "News"
-    url: /news/
-
- # - title: "Members"
- #   url: /members/
+  - title: "CV"
+    url: /cv/
 
   - title: "Up2x"
     url: /up2x/
 
+  - title: "Course & Tutorials"
+    url: /teaching/ 
+    
   - title: "Publications"
     url: /publications/
+  #- title: "News"
+  #  url: /news/
 
-  - title: "Teaching & Tutorials"
-    url: /teaching/ 
+ # - title: "Members"
+ #   url: /members/
+
+
+
+
+
+
 
   #- title: "Talks"
   #  url: /talks/    
@@ -26,8 +34,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+
     
   #- title: "Guide"
   # url: /markdown/
