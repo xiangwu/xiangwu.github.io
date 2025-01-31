@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Advanced Sensing & Interactive Research"
+title                    : "ASIR-XiangWU"
 title_separator          : "-"
-name                     : &name "Dr.Xiangwu"
+name                     : &name "Dr.XiangWu"
 description              : &description "42"
 url                      : https://xiangwu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "xiangwu.jpg"
   name             : "Dr.Xiang Wu"
-  pronouns         : "Dr./Mr."# example: "she/her"  
-  bio              : "Founder of ICAR/ASIR Gruoup and  Wevisio Co.,ltd"
+  pronouns         : "Dr./Mr." # example: "she/her"  
+  bio              : "Founder of ICAR/ASIR Group and  Wevisio Co.,ltd"
   location         : "China"
   employer         : "Henan University of Technology"
   # uri              : "https://xiangwu.github.io"# URL
