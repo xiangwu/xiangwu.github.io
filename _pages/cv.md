@@ -63,17 +63,12 @@ Service and leadership
 * More than 200 college students, 30+ young researchers, and 15+ companies and research institutions taking
 activities in
 
-Publications
+% Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======

@@ -43,7 +43,7 @@ Yuanhao Ma(马元豪)，
 Yao Zhao (赵耀)，
 Yuxiang Wu (吴雨‍翔)，
 Deyi Shao (邵德毅)，
-Guangyao Shao (邵广耀）；
+Guangyao Shao （邵广耀）；
 Yuanqi Zhang (张圆琦)，
 Lianjie Lin (林恋洁)，
 Jingjie Li (李晶洁)，
