@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Introduction"
+title: "Personal"
 author_profile: true
 redirect_from: 
   - /Intro/
   - /intro.html
 ---
-# Personal Info
+# Info
 Xiang Wu, male, born in 1983, PhD in Control Science & Engineering. A master's tutor, lecturer of Henan University of Technology. 
 
 Director of the Advanced Sensing and Interaction Technology Research Group (ASIR), Interdisciplinary Creative Application Research (ICAR), 
@@ -28,11 +28,11 @@ ASIR, stands for Advanced Sensing and Interacting Research, created by Dr. Xiang
  All the outstanding student paticipants are listed [here](url:/members/)
 
 
-## ICAR Group
+# ICAR Group
 Interdisciplinary Creative Application Research is initiated by Dr. Xiang Wu in 2020, is an open innovation research platform that brings together researchers, professors, and expert teams from different institutions to work collaboratively on interdisciplinary applied research.
 For now, ICAR consist of two research groups, ASIR and URLAR. 
 
-## ORBBEC Light-Chasing Space
+# ORBBEC Light-Chasing Space
 ORBBEC Light-Chasing Space of Henan University of Technology (HAUT), is a branch of academic club oriented by [ORBBEC Co.,Ltd](https://www.orbbec.com/).
 
 Now, it was operating by ASIR group.
