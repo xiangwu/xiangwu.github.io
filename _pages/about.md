@@ -24,7 +24,8 @@ It focuses on: Perceptual Application and human-computer interaction based on co
 
 ## Up2x 
  Up2x activities is supported by ASIR, intends to build a platform for graduate and undergaduate students upgrading their academic and practical skills. 
- All the outstanding student paticipants are listed [here](/members/)
+ 
+ **All the outstanding student paticipants are listed** [here](/members/)
 
 
 # ICAR Group
