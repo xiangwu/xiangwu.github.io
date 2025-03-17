@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2025
-[1] X. WU, X. Wu, Y. Ma, S. Zhang, T. Chen, and H. Jiang, “Yo3RL-Net:A fusion of two-phase end-to-end deep net framework for hand detection and gesture recognition,” Alexandria Engineering Journal, 2025.(SCI)
+[1] X. WU, Y. Ma, S. Zhang, T. Chen, and H. Jiang, “Yo3RL-Net:A fusion of two-phase end-to-end deep net framework for hand detection and gesture recognition,” Alexandria Engineering Journal, 2025.(SCI)
 
 ## 2024
 [1] Y. Ma, X. Wu, H. Lian, Y. Gao, J. Wang, and Y. Qiu, “A human motion detection algorithm based on improved yolov5s and ST-GCN,” Proceedings of the 36th Chinese Control and Decision Conference, CCDC 2024, pp. 2638–2643, 2024.(EI)
@@ -13,6 +13,10 @@ author_profile: true
 [2] Y. Qiu, S. Zhang, X. Wu, H. Zhang, and T. Yang, “Robotic manipulator control based on disturbance observer: A high-order fully actuated system approach,” Proceedings of the 3rd Conference on Fully Actuated System Theory and Applications, FASTA 2024, pp. 116–120, 2024.(EI)
 
 [3] T. Yang, H. Zhang, S. Zhang, X. Wu, Y. Qiu, and J. Zhang, “Design and modeling of a trapezoidal leaf spring-based actuators with valid arm length and bending deformation for stiffness adjustment,” Proceedings of the 3rd Conference on Fully Actuated System Theory and Applications, FASTA 2024, pp. 121–126, 2024.(EI)
+
+[4] X. Wu, J. Wang, Z. Zhang, Y. Zheng, Y. Tan, and B. Guo, “A precision measuring approach of shaft edge using dual-stage sub-pixel detection with lighting compensation,” Computer Fraud and Security, vol.2024, iss:12, pp.214-226,2024.(EI)
+
+
 
 ## 2023
 [1] X. Wu, Y. Ma, H. Lian, X. Fang, and T. Chen, “Clustering optimized portrait matting algorithm based on improved sparrow algorithm,” Tehnicki Vjesnik, vol. 30, no. 6, pp. 1911–1919, 2023.(SCI)
