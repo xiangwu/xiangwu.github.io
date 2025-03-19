@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "curriculum vitae"
+title: "Xiang Wu"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -60,20 +60,4 @@ Service and leadership
 * Up2x Program including interdisciplinary research, workshop, and industry survey (’Up2x’ stands for upgrade in practice for Young’s in 20s)
 * Establish the Co-work Platform from scratch
 * Evaluating the candidate projects and talents applying for admission into GDPOLAR Co-work Space
-* More than 200 college students, 30+ young researchers, and 15+ companies and research institutions taking
-activities in
-
-% Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
+* More than 200 college students, 30+ young researchers, and 15+ companies and research institutions taking activities in

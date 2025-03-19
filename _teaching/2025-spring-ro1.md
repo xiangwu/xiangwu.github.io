@@ -1,5 +1,5 @@
 ---
-title: "RO-1"
+title: "RO-1 Robotics Premier: Modeling and Trajectory Planning"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2025-spring-ro1
@@ -10,11 +10,10 @@ location: "Zhengzhou, China"
 Robotics Premier: Modeling and Trajectory Planning
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+## Syllabus
 
-Heading 2
-======
-
-Heading 3
-======
+| Entry            | Item   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| [Week 1  ](#)    | 2016   | Description of the item in the list                          |
+| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
