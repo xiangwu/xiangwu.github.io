@@ -8,10 +8,10 @@ date: 2025-03-01
 location: "Zhengzhou, China"
 ---
 Robotics Premier: Modeling and Trajectory Planning
-This is a description of a teaching experience. You can use markdown like any other post.
+**Course Duaration: Feb.2025 - Apr.2025**
 
-## Syllabus in 2025 spring 
-
+## Syllabus
+----
 | Index    | Date   |      Matierials   |Content   |
 | --------  |  ------ | ----------------|-----------------|
 | Week 1-1   | 2025/2/17   | [PDF](#)   |Robotics: Vision and Development |
@@ -27,9 +27,15 @@ This is a description of a teaching experience. You can use markdown like any ot
 | Week 6-1   | 2025/3/31   | [PDF](#)   |Forward Kinematics- Matrics Expression |
 | Week 6-2   | 2025/4/4   | [PDF](#)    |Inverse Kinematics- Geometric and Algebraic Method|
 | Week 7-1   | 2025/4/7   | [PDF](#)    |Inverse Kinematics- Pieper Method for 6 DoF Manipulator |
-| Week 7-2   | 2025/4/11   | [PDF](#)   |Trajectory-Concept |
-| Week 8-1   | 2025/4/14   | [PDF](#)   |Introduction |
-| Week 8-2   | 2025/4/18   | [PDF](#)   |Introduction |
-| Week 9-1   | 2025/4/14   | [PDF](#)   |Introduction |
-| Week 9-2   | 2025/4/18   | [PDF](#)   |Introduction |
+| Week 7-2   | 2025/4/11   | [PDF](#)   |Trajectory-Planning in Joint Space and Cartesian Space |
+| Week 8-1   | 2025/4/14   | [PDF](#)   |Trajectory- General Cubic Polynomials |
+| Week 8-2   | 2025/4/18   | [PDF](#)   |Trajectory- Linear Function with Parabolic Blends |
+| Week 9-1   | 2025/4/14   | [PDF](#)   |Static Force and Velocity |
+| Week 9-2   | 2025/4/18   | [PDF](#)   |Path Tracking and Control |
 
+## Grading
+----
+Homework    30%
+Quiz        5%
+Attandence  5%
+Final Assignment    60%
