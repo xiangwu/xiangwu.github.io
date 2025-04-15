@@ -7,7 +7,12 @@ author_profile: true
 ## 2025
 [1] **X. WU**, Y. Ma, S. Zhang, T. Chen, and H. Jiang, “Yo3RL-Net:A fusion of two-phase end-to-end deep net framework for hand detection and gesture recognition,” Alexandria Engineering Journal, 2025.(SCI)
 
-[2] Y. Cao, Y. Zhao, **X. Wu**, M. Tang, and C. Gu, “An improved YOLOv5-based method for robotic vision detection of grain caking in silos,” Journal of Measurements in Engineering, Feb. 2025.
+[2] Y. Cao, Y. Zhao, **X. Wu**, M. Tang, and C. Gu, “An improved YOLOv5-based method for robotic vision detection of grain caking in silos,” Journal of Measurements in Engineering, Feb. 2025.（EI）
+
+[3] H. Jiang, Y. Zhang, Y. Wu, and **X. Wu**, “Holistic sustainability in urban gas stations: Community engagement, renewable energy, and environmental impacts,” Journal of Urban Technology, pp. 1–28, Apr. 2025. (SCI/SSCI)
+
+[4] H. Jiang, **X. Wu**, Y. Ma, et al., “A combined super-resolution and semantic segmentation approach of urban landscape image in rain and fog environment,”  Journal of Biotech Research, vol.2025, iss:20, pp.281-290, 2025.(EI)
+
 
 ## 2024
 [1] **X. Wu**, J. Wang, Z. Zhang, Y. Zheng, Y. Tan, and B. Guo, “A precision measuring approach of shaft edge using dual-stage sub-pixel detection with lighting compensation,” Computer Fraud and Security, vol.2024, iss:12, pp.214-226,2024.(EI)
