@@ -13,7 +13,7 @@ author_profile: true
 
 [4] H. Jiang, **X. Wu**, Y. Ma, et al., “A combined super-resolution and semantic segmentation approach of urban landscape image in rain and fog environment,”  Journal of Biotech Research, vol.2025, iss:20, pp.281-290, 2025.(EI)
 
-[5] LIAN Hao , **WU Xiang** , WANG Jun-chao , HAO Xiao-jie , CHEN Ya-nan. Precision Measurement System for Workpiece Profile from Bi-Telecentric lens[J]. Manufacturing Automation, 2025, 47(4): 61-67. https://doi.org/10.3969/j.issn.1009-0134.2025.04.008
+[5] LIAN Hao , **WU Xiang** , WANG Jun-chao , HAO Xiao-jie , CHEN Ya-nan. Precision Measurement System for Workpiece Profile from Bi-Telecentric lens[J]. Manufacturing Automation, 2025, 47(4): 61-67.
 
 
 
