@@ -3,8 +3,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Open Projects"
-    url: /OpenProject/
+  - title: "Open Platform"
+    url: /op/
 
   - title: "Course & Tutorials"
     url: /teaching/ 
