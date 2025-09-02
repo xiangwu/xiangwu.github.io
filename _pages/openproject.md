@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Open Project"
+title: "OpenProject"
 permalink: /op/
 author_profile: false
 redirect_from:
