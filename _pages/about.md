@@ -25,8 +25,8 @@ It focuses on: Perceptual Application and human-computer interaction based on co
  1. Vision inspection technology for advanced manufacturing, robot control and motion planning, multi-target detection and collaborative control; 
  2. Image processing and computer vision technology applied to human-computer interaction, AI-assisted design and interdisciplinary data analysis and creation.
 
-## About Up2x Programme
- Up2x Programme, supported by ASIR, URLAR and other members of ICAR, intends to build a platform for graduate and undergaduate students upgrading their academic and practical skills. 
+# About Up2x Programme
+ Up2x Programme, supported by ASIR, URLAR and other members of ICAR Group, intends to build a platform for graduate and undergaduate students upgrading their academic and practical skills. 
 
  Up2x starts from 2019, and has involved 100+ students and 10+ universities to take part in. 
  
