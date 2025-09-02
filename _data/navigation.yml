@@ -4,13 +4,14 @@ main:
     url: /publications/
 
   - title: "Open Platform"
-    url: /op/
+  url: /op/
     
    - title: "Course & Tutorials"
-    url: /teaching/    
+   url: /teaching/    
     
   - title: "CV"
     url: /cv/
+
     
   #- title: "News"
   #  url: /news/
