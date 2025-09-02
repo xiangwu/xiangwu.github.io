@@ -1,22 +1,25 @@
 ---
 layout: archive
-title: "Up2x"
-permalink: /up2x/
-author_profile: true
+title: "Open Project"
+permalink: /op/
+author_profile: false
 redirect_from:
 #  - /resume
 ---
 {% include base_path %}
 
-# Up2x
-Up2x is an activity for undergratuates and graduates in different universities envoled in creative researchs and pracices. 
-For now, there are four Academic Topics:
+# ASIR Open Platform 
+ASIR Open Platform(OP) is a hierarchical collection of open source projcet, which inlcudes both learning-based projects and innovative-based project, plus a practical tool-set prject. 
+The projects are listed below:
 
-## INSxD project
+## ASIR-SE (Study Environment)
+### ROSE
+### VISE
 
-## ROMAN project
+## ASIR-GURU
+### roboZoo
+### viGarden
 
-## ERA project
+## ASIR-Helper
 
-## DIGI project
 
