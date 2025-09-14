@@ -6,7 +6,7 @@ permalink: /teaching/ro1-2025spring
 venue: "Henan University of Technology, College of Electrical Engineering"
 date: 2025
 location: "Zhengzhou, China"
-
+---
 
 # Robotics Premier: Modeling and Trajectory Planning
 
