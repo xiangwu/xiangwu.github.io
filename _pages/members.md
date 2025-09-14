@@ -11,20 +11,17 @@ author_profile: true
 ======
 Junchao Wang (王俊超)，
 Jiajian Zhang (张家建),
-
 Haiying Deng(邓海英)，
 Yuxin Zheng (郑宇欣)，
 Menglu Liu (刘梦露)，
 Xiaowen Wang(王晓雯)，
 Yihang Xu(徐一航)，
-
 Bo Li (李博)，
 Gaoxing Zheng (郑高星)，
 Zhongtao Li(李忠涛),
 Yao Wang(王尧),
 Changming Zuo(左长明)，
 Ziyang Xiao(肖紫阳)，
-
 Chang Xu(徐畅)，
 Donghao Bao(暴东豪)，
 Tianrui Yang(杨甜蕊)，
