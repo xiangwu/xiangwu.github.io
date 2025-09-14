@@ -9,17 +9,18 @@ redirect_from:
 {% include base_path %}
 
 
-ASIR Open Platform (ASIR OP) is a hierarchical collection of open source projcet, which inlcudes both learning-based projects and innovative-based project, plus a practical tool-set prject. 
-The projects are listed below:
+ASIR Open Platform (ASIR OP) is a hierarchical collection of open source projcet, which inlcudes both learning-based projects(ASIR-SE) and innovative-based project(ASIR-GURU), plus a practical tool-set(ASIR-Helper). 
 
 ## ASIR-SE (Study Environment)
 ### ROSE
-ROSE(Robotics Study Environment) is a simulation Environment based on Matlab and CoppeliaSim, includes three main online open course matierials, exercises and a collection of advanced algorithms include both ASIR original contributed and other researcher haved published. 
-The main courses include,
+ROSE(Robotics Study Environment) is a simulation Environment based on Matlab and CoppeliaSim, includes the sources of three main online open course with matierials, exercises.
+And an algorithm collection fromm ASIR and other researcher or organizer haved published. 
+The main courses can be found at
 - RO-1 Robotics Premier: Modeling and Trajectory Planning [here](/teaching/ro1-2025)
 - RO-2 Robotics Motion: Dynamics and Control[here](/teaching/ro1-2025)
 - RO-3 Control Engineering Practice
-- Advanced Algorithm Set
+
+The open source page of **ROSE** is [here]() 
   
 ### VISE
 VISE(Visual Information Study Environment) is a test platform for image processing and computer vision relative alogrithms. 
