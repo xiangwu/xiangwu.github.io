@@ -16,7 +16,7 @@ The projects are listed below:
 ### ROSE
 ROSE(Robotics Study Environment) is a simulation Environment based on Matlab and CoppeliaSim, includes three main online open course matierials, exercises and a collection of advanced algorithms include both ASIR original contributed and other researcher haved published. 
 The main courses include,
-- RO-1 Robotics Premier: Modeling and Trajectory Planning
+- RO-1 Robotics Premier: Modeling and Trajectory Planning [here](/_teaching/ro1-2025)
 - RO-2 Robotics Motion: Dynamics and Control
 - RO-3 Control Engineering Practice
 - Advanced Algorithm Set
