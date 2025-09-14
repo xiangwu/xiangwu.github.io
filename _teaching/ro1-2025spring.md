@@ -1,5 +1,5 @@
 ---
-title: "RO-1 v2025 Spring"
+title: "RO-1 v2025Spring"
 collection: archieved
 type: "Undergraduate Course"
 permalink: /teaching/ro1-2025spring
