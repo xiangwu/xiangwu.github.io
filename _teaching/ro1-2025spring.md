@@ -4,12 +4,14 @@ collection: archieved
 type: "Undergraduate Course"
 permalink: /teaching/ro1-2025spring
 venue: "Henan University of Technology, College of Electrical Engineering"
-date: 2025 spring
+date: 2025
 location: "Zhengzhou, China"
----
-**Robotics Premier: Modeling and Trajectory Planning**
 
-# Syllabus
+
+# Robotics Premier: Modeling and Trajectory Planning
+
+## Syllabus
+
 - Week 1-1    2025/2/17    [PDF](#)   Robotics: Vision and Development 
 - Week 1-2    2025/2/21    [PDF](#)   Automation and Industiral Robot 
 - Week 2-1    2025/2/24    [PDF](#)   Structure of Industiral Robot: Components and Configuration 
@@ -30,7 +32,7 @@ location: "Zhengzhou, China"
 - Week 9-2    2025/4/18    [PDF](#)   Path Tracking and Control 
 
 ## Grading
-----
+
 Homework    30%
 Quiz        5%
 Attandence  5%
