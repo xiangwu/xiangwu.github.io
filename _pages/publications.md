@@ -5,15 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2025
-[1] **X. WU**, Y. Ma, S. Zhang, T. Chen, and H. Jiang, “Yo3RL-Net:A fusion of two-phase end-to-end deep net framework for hand detection and gesture recognition,” Alexandria Engineering Journal, 2025.(SCI)
+[1] **X. Wu**, J. Zhang, J. Wang, S. Zhang, and T. Chen, “A Dynamic State Feedback Based Control Strategy and Simulation for Massively Interrelated Power System with Multi-overlapping Distributed limited-time Connectivity,” Teh. vjesn., vol. 32, no. 5, Oct. 2025.(SCI)
 
-[2] Y. Cao, Y. Zhao, **X. Wu**, M. Tang, and C. Gu, “An improved YOLOv5-based method for robotic vision detection of grain caking in silos,” Journal of Measurements in Engineering, Feb. 2025.（EI）
+[2] **X. WU**, Y. Ma, S. Zhang, T. Chen, and H. Jiang, “Yo3RL-Net:A fusion of two-phase end-to-end deep net framework for hand detection and gesture recognition,” Alexandria Engineering Journal, 2025.(SCI)
 
-[3] H. Jiang, Y. Zhang, Y. Wu, and **X. Wu**, “Holistic sustainability in urban gas stations: Community engagement, renewable energy, and environmental impacts,” Journal of Urban Technology, pp. 1–28, Apr. 2025. (SCI/SSCI)
+[3] Y. Cao, Y. Zhao, **X. Wu**, M. Tang, and C. Gu, “An improved YOLOv5-based method for robotic vision detection of grain caking in silos,” Journal of Measurements in Engineering, Feb. 2025.（EI）
 
-[4] H. Jiang, **X. Wu**, Y. Ma, et al., “A combined super-resolution and semantic segmentation approach of urban landscape image in rain and fog environment,”  Journal of Biotech Research, vol.2025, iss:20, pp.281-290, 2025.(EI)
+[4] H. Jiang, Y. Zhang, Y. Wu, and **X. Wu**, “Holistic sustainability in urban gas stations: Community engagement, renewable energy, and environmental impacts,” Journal of Urban Technology, pp. 1–28, Apr. 2025. (SCI/SSCI)
 
-[5] LIAN Hao , **WU Xiang** , WANG Jun-chao , HAO Xiao-jie , CHEN Ya-nan. Precision Measurement System for Workpiece Profile from Bi-Telecentric lens[J]. Manufacturing Automation, 2025, 47(4): 61-67.
+[5] H. Jiang, **X. Wu**, Y. Ma, et al., “A combined super-resolution and semantic segmentation approach of urban landscape image in rain and fog environment,”  Journal of Biotech Research, vol.2025, iss:20, pp.281-290, 2025.(EI)
+
+[6] LIAN Hao , **WU Xiang** , WANG Jun-chao , HAO Xiao-jie , CHEN Ya-nan. Precision Measurement System for Workpiece Profile from Bi-Telecentric lens. Manufacturing Automation, 2025, 47(4): 61-67.
 
 
 
