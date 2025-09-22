@@ -38,9 +38,12 @@ The main courses can be found at
 - VI-3 Dada Analysis and Visualization. [here]()
 
 ## ASIR-GURU
+
 ### roboZoo
+This part is missing, and it will c u soon...
+
 ### viGarden
+This part is missing, and it will c u soon...
 
 ## ASIR-Helper
-
-
+This part is missing, and it will c u soon...
