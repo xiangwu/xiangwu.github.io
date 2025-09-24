@@ -44,3 +44,5 @@ Dr.He Jiang, Dr.Jilong Wang, Dr.Hui Zhang
 # ORBBEC Light-Chasing Space
 ORBBEC Light-Chasing Space of Henan University of Technology (HAUT), is a branch of academic club oriented by [ORBBEC Co.,Ltd](https://www.orbbec.com/).
 Now, it was operating by ASIR group.
+
+![Total Views](https://komarev.com/ghpvc/?username=xiangwu&color=orange)
