@@ -6,6 +6,8 @@ redirect_from:
   - /Intro/
   - /intro.html
 ---
+![Total Views](https://komarev.com/ghpvc/?username=xiangwu&color=orange&base=1000)
+
 Xiang Wu, male, born in 1983, with PhD degree in Control Science & Engineering. 
 A master's tutor, lecturer/Assistant Professor of Henan University of Technology. 
 And also being as
@@ -45,4 +47,4 @@ Dr.He Jiang, Dr.Jilong Wang, Dr.Hui Zhang
 ORBBEC Light-Chasing Space of Henan University of Technology (HAUT), is a branch of academic club oriented by [ORBBEC Co.,Ltd](https://www.orbbec.com/).
 Now, it was operating by ASIR group.
 
-![Total Views](https://komarev.com/ghpvc/?username=xiangwu&color=orange)
+
