@@ -11,6 +11,7 @@ redirect_from:
 # ASIR-GURU
 ASIR Open Platform is a hierarchical collection of open source projcet, which is called **ASIR-GURU**. 
 It inlcudes two learning-based projects, two innovative-based projects, and a practical tool-set. 
+You can find it [here](https://github.com/xiangwu/ASIR_GURU)
 
 ## ROSE
 Robotics Study Environment(ROSE) is a learning and simulation Environment based on Matlab and CoppeliaSim, includes several open courses with matierials, exercises.
@@ -42,7 +43,7 @@ This part is missing, and it will c u soon...
   4. 机器人鸭子
   5. 机器人灯
 
-## ASIR_Helper
+## Helper
 This part is missing, and it will c u soon...
   1. Hardware
       - 达妙电机控制
