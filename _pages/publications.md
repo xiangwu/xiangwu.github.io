@@ -15,9 +15,11 @@ author_profile: true
 
 [5] H. Jiang, **X. Wu**, Y. Ma, et al., “A combined super-resolution and semantic segmentation approach of urban landscape image in rain and fog environment,”  Journal of Biotech Research, vol.2025, iss:20, pp.281-290, 2025.(EI)
 
-[6] LIAN Hao , **WU Xiang** , WANG Jun-chao , HAO Xiao-jie , CHEN Ya-nan. Precision Measurement System for Workpiece Profile from Bi-Telecentric lens. Manufacturing Automation, 2025, 47(4): 61-67. (中文科技核心期刊)
+[6] J.C. Wang, **X.Wu**, etc., "", Proceedings of the 37th Chinese Control and Decision Conference, CCDC 2025,pp.1339-1344,2025. (EI)
 
-[7] Y. Cao, H. Jiang, et al., **X. Wu**, “Ecological Wisdom Study of the Han Dynasty Settlement Site in Sanyangzhuang Based on Landscape Archaeology,” Heritage, vol. 8, no. 11, p. 466, Nov. 2025. (SCI)
+[7] LIAN Hao , **WU Xiang** , WANG Jun-chao , HAO Xiao-jie , CHEN Ya-nan. Precision Measurement System for Workpiece Profile from Bi-Telecentric lens. Manufacturing Automation, 2025, 47(4): 61-67. (中文科技核心期刊)
+
+[8] Y. Cao, H. Jiang, et al., **X. Wu**, “Ecological Wisdom Study of the Han Dynasty Settlement Site in Sanyangzhuang Based on Landscape Archaeology,” Heritage, vol. 8, no. 11, p. 466, Nov. 2025. (SCI)
 
 
 
