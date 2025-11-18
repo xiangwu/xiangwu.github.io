@@ -11,11 +11,14 @@ author_profile: true
 
 [3] Y. Cao, Y. Zhao, **X. Wu**, M. Tang, and C. Gu, “An improved YOLOv5-based method for robotic vision detection of grain caking in silos,” Journal of Measurements in Engineering, Feb. 2025.（EI）
 
-[4] H. Jiang, Y. Zhang, Y. Wu, and **X. Wu**, “Holistic sustainability in urban gas stations: Community engagement, renewable energy, and environmental impacts,” Journal of Urban Technology, pp. 1–28, Apr. 2025. (SCI/SSCI)
+[4] H. Jiang, Y. Zhang, Y. Wu, and **X. Wu**, “Holistic sustainability in urban gas stations: Community engagement, renewable energy, and environmental impacts,” Journal of Urban Technology, pp. 1–28, Apr. 2025. (SSCI)
 
 [5] H. Jiang, **X. Wu**, Y. Ma, et al., “A combined super-resolution and semantic segmentation approach of urban landscape image in rain and fog environment,”  Journal of Biotech Research, vol.2025, iss:20, pp.281-290, 2025.(EI)
 
-[6] LIAN Hao , **WU Xiang** , WANG Jun-chao , HAO Xiao-jie , CHEN Ya-nan. Precision Measurement System for Workpiece Profile from Bi-Telecentric lens. Manufacturing Automation, 2025, 47(4): 61-67.
+[6] LIAN Hao , **WU Xiang** , WANG Jun-chao , HAO Xiao-jie , CHEN Ya-nan. Precision Measurement System for Workpiece Profile from Bi-Telecentric lens. Manufacturing Automation, 2025, 47(4): 61-67. (中文科技核心期刊)
+
+[7] Y. Cao, H. Jiang, et al., **X. Wu**, “Ecological Wisdom Study of the Han Dynasty Settlement Site in Sanyangzhuang Based on Landscape Archaeology,” Heritage, vol. 8, no. 11, p. 466, Nov. 2025. (SCI)
+
 
 
 
