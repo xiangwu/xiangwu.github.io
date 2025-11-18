@@ -15,7 +15,7 @@ author_profile: true
 
 [5] H. Jiang, **X. Wu**, Y. Ma, et al., “A combined super-resolution and semantic segmentation approach of urban landscape image in rain and fog environment,”  Journal of Biotech Research, vol.2025, iss:20, pp.281-290, 2025.(EI)
 
-[6] J.C. Wang, **X.Wu**, etc., "", Proceedings of the 37th Chinese Control and Decision Conference, CCDC 2025,pp.1339-1344,2025. (EI)
+[6] J.C. Wang, **X.Wu**, etc., "A Multi-Model Fusional Approach of Constructing 3D Temperature Model for Power Equipment with Heterogeneous Sensors", Proceedings of the 37th Chinese Control and Decision Conference, CCDC 2025,pp.1339-1344,2025. (EI)
 
 [7] LIAN Hao , **WU Xiang** , WANG Jun-chao , HAO Xiao-jie , CHEN Ya-nan. Precision Measurement System for Workpiece Profile from Bi-Telecentric lens. Manufacturing Automation, 2025, 47(4): 61-67. (中文科技核心期刊)
 
