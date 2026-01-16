@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2026
+[1]Zhang, Shijie, Yuebin Qiu, Mingzhe Hou, **Xiang Wu**, Hui Zhang and Jilong Wang. "Design of a fast model predictive controller based on the fully actuated system approach," Control Engineering Practice (SCI), vol 169, pp:106762,2026.
+
 ## 2025
 [1] **X. Wu**, J. Zhang, J. Wang, S. Zhang, and T. Chen, “A Dynamic State Feedback Based Control Strategy and Simulation for Massively Interrelated Power System with Multi-overlapping Distributed limited-time Connectivity,” Teh. vjesn., vol. 32, no. 5, Oct. 2025.(SCI)
 
