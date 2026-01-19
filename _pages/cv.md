@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2011-now: Lecturer/Assistant Professor, Chief of ASIR
+* 2011-now: Lecturer/Assistant Professor, Director of ASIR
   * Henan University of Technology
   * College of Electrical Engineering
 
