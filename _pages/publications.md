@@ -8,22 +8,27 @@ author_profile: true
 [1]Zhang, Shijie, Yuebin Qiu, Mingzhe Hou, **Xiang Wu**, Hui Zhang and Jilong Wang. "Design of a fast model predictive controller based on the fully actuated system approach," Control Engineering Practice (SCI), vol 169, pp:106762,2026.
 
 ## 2025
+- Computer Vision & Sensing Topics
+
+[1] **X. WU**, Y. Ma, S. Zhang, T. Chen, and H. Jiang, “Yo3RL-Net:A fusion of two-phase end-to-end deep net framework for hand detection and gesture recognition,” Alexandria Engineering Journal, 2025.(SCI)
+
+[2] J.C. Wang, **X.Wu**, etc., "A Multi-Model Fusional Approach of Constructing 3D Temperature Model for Power Equipment with Heterogeneous Sensors", Proceedings of the 37th Chinese Control and Decision Conference, CCDC 2025,pp.1339-1344,2025. (EI)
+
+[3] LIAN Hao , **WU Xiang** , WANG Jun-chao , HAO Xiao-jie , CHEN Ya-nan. Precision Measurement System for Workpiece Profile from Bi-Telecentric lens. Manufacturing Automation, 2025, 47(4): 61-67. (中文科技核心期刊)
+
+[4] Y. Cao, Y. Zhao, **X. Wu**, M. Tang, and C. Gu, “An improved YOLOv5-based method for robotic vision detection of grain caking in silos,” Journal of Measurements in Engineering, Feb. 2025.（EI）
+
+- Robotics & Control Topics
+
 [1] **X. Wu**, J. Zhang, J. Wang, S. Zhang, and T. Chen, “A Dynamic State Feedback Based Control Strategy and Simulation for Massively Interrelated Power System with Multi-overlapping Distributed limited-time Connectivity,” Teh. vjesn., vol. 32, no. 5, Oct. 2025.(SCI)
 
-[2] **X. WU**, Y. Ma, S. Zhang, T. Chen, and H. Jiang, “Yo3RL-Net:A fusion of two-phase end-to-end deep net framework for hand detection and gesture recognition,” Alexandria Engineering Journal, 2025.(SCI)
+- Interdisciplinary Application Topics
 
-[3] Y. Cao, Y. Zhao, **X. Wu**, M. Tang, and C. Gu, “An improved YOLOv5-based method for robotic vision detection of grain caking in silos,” Journal of Measurements in Engineering, Feb. 2025.（EI）
+[1] Y. Cao, H. Jiang, et al., **X. Wu**, “Ecological Wisdom Study of the Han Dynasty Settlement Site in Sanyangzhuang Based on Landscape Archaeology,” Heritage, vol. 8, no. 11, p. 466, Nov. 2025. (SCI)
 
-[4] H. Jiang, Y. Zhang, Y. Wu, and **X. Wu**, “Holistic sustainability in urban gas stations: Community engagement, renewable energy, and environmental impacts,” Journal of Urban Technology, pp. 1–28, Apr. 2025. (SSCI)
+[2] H. Jiang, Y. Zhang, Y. Wu, and **X. Wu**, “Holistic sustainability in urban gas stations: Community engagement, renewable energy, and environmental impacts,” Journal of Urban Technology, pp. 1–28, Apr. 2025. (SSCI)
 
-[5] H. Jiang, **X. Wu**, Y. Ma, et al., “A combined super-resolution and semantic segmentation approach of urban landscape image in rain and fog environment,”  Journal of Biotech Research, vol.2025, iss:20, pp.281-290, 2025.(EI)
-
-[6] J.C. Wang, **X.Wu**, etc., "A Multi-Model Fusional Approach of Constructing 3D Temperature Model for Power Equipment with Heterogeneous Sensors", Proceedings of the 37th Chinese Control and Decision Conference, CCDC 2025,pp.1339-1344,2025. (EI)
-
-[7] LIAN Hao , **WU Xiang** , WANG Jun-chao , HAO Xiao-jie , CHEN Ya-nan. Precision Measurement System for Workpiece Profile from Bi-Telecentric lens. Manufacturing Automation, 2025, 47(4): 61-67. (中文科技核心期刊)
-
-[8] Y. Cao, H. Jiang, et al., **X. Wu**, “Ecological Wisdom Study of the Han Dynasty Settlement Site in Sanyangzhuang Based on Landscape Archaeology,” Heritage, vol. 8, no. 11, p. 466, Nov. 2025. (SCI)
-
+[3] H. Jiang, **X. Wu**, Y. Ma, et al., “A combined super-resolution and semantic segmentation approach of urban landscape image in rain and fog environment,”  Journal of Biotech Research, vol.2025, iss:20, pp.281-290, 2025.(EI)
 
 
 
