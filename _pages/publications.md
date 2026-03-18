@@ -6,15 +6,17 @@ author_profile: true
 ---
 ## 2026
 
-**CV & Sensing**
+**- CV & Sensing -**
+
 [1] J. Wang, **X. Wu**, T. Yang, Y. Wang, M. Xiao, and G. Zheng, “SAMCM-SR: Applying SAM3 under data-scarce conditions for cross-modal segmentation of power equipment infrared images with super-resolution enhancement,” Applied Sciences, vol. 16, no. 5, p. 2351, Feb. 2026, doi: 10.3390/app16052351.
 
-**Robotics & Control**
+**- Robotics & Control -**
+
 [1]Zhang, Shijie, Yuebin Qiu, Mingzhe Hou, **Xiang Wu**, Hui Zhang and Jilong Wang. "Design of a fast model predictive controller based on the fully actuated system approach," Control Engineering Practice (SCI), vol 169, pp:106762,2026.
 
 ## 2025
 
-**CV & Sensing**
+**- CV & Sensing -**
 
 [1] **X. WU**, Y. Ma, S. Zhang, T. Chen, and H. Jiang, “Yo3RL-Net:A fusion of two-phase end-to-end deep net framework for hand detection and gesture recognition,” Alexandria Engineering Journal, 2025.(SCI)
 
@@ -24,11 +26,11 @@ author_profile: true
 
 [4] Y. Cao, Y. Zhao, **X. Wu**, M. Tang, and C. Gu, “An improved YOLOv5-based method for robotic vision detection of grain caking in silos,” Journal of Measurements in Engineering, Feb. 2025.（EI）
 
-**Robotics & Control**
+**- Robotics & Control -**
 
 [1] **X. Wu**, J. Zhang, J. Wang, S. Zhang, and T. Chen, “A Dynamic State Feedback Based Control Strategy and Simulation for Massively Interrelated Power System with Multi-overlapping Distributed limited-time Connectivity,” Teh. vjesn., vol. 32, no. 5, Oct. 2025.(SCI)
 
-**Interdisciplinary Collaboration & Application**
+**- Interdisciplinary Collaboration & Application -**
 
 [1] Y. Cao, H. Jiang, et al., **X. Wu**, “Ecological Wisdom Study of the Han Dynasty Settlement Site in Sanyangzhuang Based on Landscape Archaeology,” Heritage, vol. 8, no. 11, p. 466, Nov. 2025. (SCI)
 
@@ -40,12 +42,12 @@ author_profile: true
 
 ## 2024
 
-**CV & Sensing**
+**- CV & Sensing -**
 
 [1] **X. Wu**, J. Wang, Z. Zhang, Y. Zheng, Y. Tan, and B. Guo, “A precision measuring approach of shaft edge using dual-stage sub-pixel detection with lighting compensation,” Computer Fraud and Security, vol.2024, iss:12, pp.214-226,2024.(EI)
 [2] Y. Ma, **X. Wu**, H. Lian, Y. Gao, J. Wang, and Y. Qiu, “A human motion detection algorithm based on improved yolov5s and ST-GCN,” Proceedings of the 36th Chinese Control and Decision Conference, CCDC 2024, pp. 2638–2643, 2024.(EI)
 
-**Robotics & Control**
+**- Robotics & Control -**
 
 [1] Y. Qiu, S. Zhang, **X. Wu**, H. Zhang, and T. Yang, “Robotic manipulator control based on disturbance observer: A high-order fully actuated system approach,” Proceedings of the 3rd Conference on Fully Actuated System Theory and Applications, FASTA 2024, pp. 116–120, 2024.(EI)
 
@@ -54,7 +56,7 @@ author_profile: true
 
 ## 2023
 
-**CV & Sensing**
+**- CV & Sensing -**
 
 [1] **X. Wu**, Y. Ma, H. Lian, X. Fang, and T. Chen, “Clustering optimized portrait matting algorithm based on improved sparrow algorithm,” Tehnicki Vjesnik, vol. 30, no. 6, pp. 1911–1919, 2023.(SCI)
 
@@ -64,18 +66,19 @@ author_profile: true
 
 [4] X. Fang, **X. Wu**, Y. Ma, H. Lian, and Y. Song, “Saliency improved yolov5s algorithm for defect detection of overhead line insulator,” Journal of Network Intelligence, vol. 8, no. 3, pp. 791–806, 2023.(EI)
 
-**Interdisciplinary Collaboration & Application**
+**- Interdisciplinary Collaboration & Application -**
 
 [1] **X. Wu**, D. Shao, Y. Wu, G. Shao, Q. Huang, and R. Chen, “A cloud-based photographing system with adaptive image quality promotion,” 2023 IEEE International Conference on Control, Electronics and Computer Technology, ICCECT 2023, pp. 1471–1478, 2023.(EI)
 
 
 
 ## 2022
-**CV & Sensing**
+
+**- CV & Sensing -**
 
 [1] **X. Wu**, H. Lian, X. Bao, S. Zhang, and T. Chen, “Using enhanced reordered census transform for semiglobal stereo matching algorithm,” Mobile Information Systems, vol. 2022, 2022.(SCI)
 
-**Robotics & Control**
+**- Robotics & Control -**
 
 [1] P. Li, **X. Wu**, X. Chsen, and J. Qiu, “Distributed adaptive finite-time tracking for multi-agent systems and its application,” Neurocomputing, vol. 481, pp. 46–54, 2022.(SCI)
 
