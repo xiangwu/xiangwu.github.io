@@ -8,7 +8,7 @@ author_profile: true
 [1]Zhang, Shijie, Yuebin Qiu, Mingzhe Hou, **Xiang Wu**, Hui Zhang and Jilong Wang. "Design of a fast model predictive controller based on the fully actuated system approach," Control Engineering Practice (SCI), vol 169, pp:106762,2026.
 
 ## 2025
-- Computer Vision & Sensing Topics
+**Computer Vision & Sensing Topics**
 
 [1] **X. WU**, Y. Ma, S. Zhang, T. Chen, and H. Jiang, “Yo3RL-Net:A fusion of two-phase end-to-end deep net framework for hand detection and gesture recognition,” Alexandria Engineering Journal, 2025.(SCI)
 
@@ -18,11 +18,11 @@ author_profile: true
 
 [4] Y. Cao, Y. Zhao, **X. Wu**, M. Tang, and C. Gu, “An improved YOLOv5-based method for robotic vision detection of grain caking in silos,” Journal of Measurements in Engineering, Feb. 2025.（EI）
 
-- Robotics & Control Topics
+**Robotics & Control Topics**
 
 [1] **X. Wu**, J. Zhang, J. Wang, S. Zhang, and T. Chen, “A Dynamic State Feedback Based Control Strategy and Simulation for Massively Interrelated Power System with Multi-overlapping Distributed limited-time Connectivity,” Teh. vjesn., vol. 32, no. 5, Oct. 2025.(SCI)
 
-- Interdisciplinary Application Topics
+**Interdisciplinary Application Topics**
 
 [1] Y. Cao, H. Jiang, et al., **X. Wu**, “Ecological Wisdom Study of the Han Dynasty Settlement Site in Sanyangzhuang Based on Landscape Archaeology,” Heritage, vol. 8, no. 11, p. 466, Nov. 2025. (SCI)
 
