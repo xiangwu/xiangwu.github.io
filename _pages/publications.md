@@ -25,7 +25,7 @@ author_profile: true
 
 [2] J.C. Wang, **X.Wu**, etc., "A Multi-Model Fusional Approach of Constructing 3D Temperature Model for Power Equipment with Heterogeneous Sensors", Proceedings of the 37th Chinese Control and Decision Conference, CCDC 2025,pp.1339-1344,2025. (EI)
 
-[3] 练浩, 吴翔, 王俊超, 郝晓杰和陈亚楠, 《工件轮廓距双远心精密测量系统》, 制造业自动化, 卷 47, 期 4, 2025.（中文科技核心期刊）
+[3] 练浩, **吴翔**, 王俊超, 郝晓杰和陈亚楠, 《工件轮廓距双远心精密测量系统》, 制造业自动化, 卷 47, 期 4, 2025.（中文科技核心期刊）
 
 [4] Y. Cao, Y. Zhao, **X. Wu**, M. Tang, and C. Gu, “An improved YOLOv5-based method for robotic vision detection of grain caking in silos,” Journal of Measurements in Engineering, Feb. 2025.（EI）
 
@@ -33,7 +33,7 @@ author_profile: true
 
 [1] **X. Wu**, J. Zhang, J. Wang, S. Zhang, and T. Chen, “A Dynamic State Feedback Based Control Strategy and Simulation for Massively Interrelated Power System with Multi-overlapping Distributed limited-time Connectivity,” Teh. vjesn., vol. 32, no. 5, Oct. 2025.(SCI)
 
-[2] 魏世博, 吴翔, 王瞧, 牛群峰和樊广晓, 《基于麻雀算法优化的lqr农机横向跟踪控制方法》, 中国农机化学报, 卷 46, 期 6, 2025.（中文核心期刊）
+[2] 魏世博, **吴翔**, 王瞧, 牛群峰和樊广晓, 《基于麻雀算法优化的lqr农机横向跟踪控制方法》, 中国农机化学报, 卷 46, 期 6, 2025.（中文核心期刊）
 
 
 **- Interdisciplinary Collaboration & Application -**
