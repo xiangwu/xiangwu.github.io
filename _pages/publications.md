@@ -8,11 +8,14 @@ author_profile: true
 
 **- CV & Sensing -**
 
-[1] J. Wang, **X. Wu**, T. Yang, Y. Wang, M. Xiao, and G. Zheng, “SAMCM-SR: Applying SAM3 under data-scarce conditions for cross-modal segmentation of power equipment infrared images with super-resolution enhancement,” Applied Sciences, vol. 16, no. 5, p. 2351, Feb. 2026, doi: 10.3390/app16052351.
+[1] J. Wang, **X. Wu**, T. Yang, Y. Wang, M. Xiao, and G. Zheng, “SAMCM-SR: Applying SAM3 under data-scarce conditions for cross-modal segmentation of power equipment infrared images with super-resolution enhancement,” Applied Sciences, vol. 16, no. 5, p. 2351, Feb. 2026.(SCI)
 
 **- Robotics & Control -**
 
-[1]Zhang, Shijie, Yuebin Qiu, Mingzhe Hou, **Xiang Wu**, Hui Zhang and Jilong Wang. "Design of a fast model predictive controller based on the fully actuated system approach," Control Engineering Practice (SCI), vol 169, pp:106762,2026.
+[1] Zhang, Shijie, Yuebin Qiu, Mingzhe Hou, **Xiang Wu**, Hui Zhang and Jilong Wang. "Design of a fast model predictive controller based on the fully actuated system approach," Control Engineering Practice , vol 169, pp:106762,2026. (SCI)
+
+[2] S. Zhang, Y. Qiu, M. Hou, **X. Wu**, H. Zhang, and J. Wang, “Multiple filtered high-gain observers-based robust control for mixed-order fully actuated systems,” J. Franklin Inst., vol. 363, no. 7, p. 108599, May 2026. (SCI)
+
 
 ## 2025
 
@@ -48,6 +51,7 @@ author_profile: true
 **- CV & Sensing -**
 
 [1] **X. Wu**, J. Wang, Z. Zhang, Y. Zheng, Y. Tan, and B. Guo, “A precision measuring approach of shaft edge using dual-stage sub-pixel detection with lighting compensation,” Computer Fraud and Security, vol.2024, iss:12, pp.214-226,2024.(EI)
+
 [2] Y. Ma, **X. Wu**, H. Lian, Y. Gao, J. Wang, and Y. Qiu, “A human motion detection algorithm based on improved yolov5s and ST-GCN,” Proceedings of the 36th Chinese Control and Decision Conference, CCDC 2024, pp. 2638–2643, 2024.(EI)
 
 **- Robotics & Control -**
