@@ -16,7 +16,7 @@ author_profile: true
 
 **- Robotics & Control -**
 
-[1] S. Zhang, Y. Qiu, M. Hou, X. Wu, H. Zhang, and J. Wang, “Design of a fast model predictive controller based on the fully actuated system approach,” Control Eng. Pract., vol. 169, p. 106762, Apr. 2026.(SCI)
+[1] S. Zhang, Y. Qiu, M. Hou, **X. Wu**, H. Zhang, and J. Wang, “Design of a fast model predictive controller based on the fully actuated system approach,” Control Eng. Pract., vol. 169, p. 106762, Apr. 2026.(SCI)
 
 [2] S. Zhang, Y. Qiu, M. Hou, **X. Wu**, H. Zhang, and J. Wang, “Multiple filtered high-gain observers-based robust control for mixed-order fully actuated systems,” J. Franklin Inst., vol. 363, no. 7, p. 108599, May 2026. (SCI)
 
