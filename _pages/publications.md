@@ -10,10 +10,13 @@ author_profile: true
 
 [1] J. Wang, **X. Wu**, T. Yang, Y. Wang, M. Xiao, and G. Zheng, “SAMCM-SR: Applying SAM3 under data-scarce conditions for cross-modal segmentation of power equipment infrared images with super-resolution enhancement,” Applied Sciences, vol. 16, no. 5, p. 2351, Feb. 2026.(SCI)
 
+[2] **X. Wu**, J. Wang, H. Deng, T. Yang, et al., “UReYo-net: A deep network pipeline approach of electrical power equipment detection and segmentation with integrated RGBT image,” Results Eng., vol. 30, p. 110415, Jun. 2026. (ESCI)
+
+[3] **X. Wu**, J. Wang, S. Zhang, T. Chen, X. Liu, and S. He, “FusionMamba : Efficient 3D point cloud completion via spatially-aware state space models and multi-scale information fusion,” Inf. Fusion, vol. 134, p. 104378, Oct. 2026.(SCI)
+
 **- Robotics & Control -**
 
-[1] Zhang, Shijie, Yuebin Qiu, Mingzhe Hou, **Xiang Wu**, Hui Zhang and Jilong Wang. "Design of a fast model predictive controller based on the fully actuated system approach," Control Engineering Practice , vol 169, pp:106762,2026. (SCI)
-
+[1] S. Zhang, Y. Qiu, M. Hou, X. Wu, H. Zhang, and J. Wang, “Design of a fast model predictive controller based on the fully actuated system approach,” Control Eng. Pract., vol. 169, p. 106762, Apr. 2026, doi: 10.1016/j.conengprac.2026.106762.
 [2] S. Zhang, Y. Qiu, M. Hou, **X. Wu**, H. Zhang, and J. Wang, “Multiple filtered high-gain observers-based robust control for mixed-order fully actuated systems,” J. Franklin Inst., vol. 363, no. 7, p. 108599, May 2026. (SCI)
 
 
