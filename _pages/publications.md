@@ -6,15 +6,20 @@ author_profile: true
 ---
 ## 2026
 
-**- CV & Sensing -**
+- **CV & Sensing**
 
 [1] J. Wang, **X. Wu**, T. Yang, Y. Wang, M. Xiao, and G. Zheng, “SAMCM-SR: Applying SAM3 under data-scarce conditions for cross-modal segmentation of power equipment infrared images with super-resolution enhancement,” Applied Sciences, vol. 16, no. 5, p. 2351, Feb. 2026.(SCI)
 
-[2] **X. Wu**, J. Wang, H. Deng, T. Yang, et al., “UReYo-net: A deep network pipeline approach of electrical power equipment detection and segmentation with integrated RGBT image,” Results Eng., vol. 30, p. 110415, Jun. 2026. (ESCI)
+[2] **X. Wu**, J. Wang, H. Deng, T. Yang, et al., “UReYo-net: A deep network pipeline approach of electrical power equipment detection and segmentation with integrated RGBT image,” Results Eng., vol. 30, p. 110415, Jun. 2026. (ESCI/EI)
 
 [3] **X. Wu**, J. Wang, S. Zhang, T. Chen, X. Liu, and S. He, “FusionMamba : Efficient 3D point cloud completion via spatially-aware state space models and multi-scale information fusion,” Inf. Fusion, vol. 134, p. 104378, Oct. 2026.(SCI)
 
-**- Robotics & Control -**
+[4] D. Haiying, **W. Xiang**, W. Junchao, Z. Gaoxing, L. Bo, and L. Zongyang, “Low-light recognition-guided segmentation of infrared thermal images for power equipment,” in The proceedings of the 20th annual conference of china electrotechnical society, Singapore: Springer Nature Singapore, 2026, pp. 146–153.(EI)
+
+[5] **X. Wu**, Z. Yuxin, Wang, Junchao, Wang, Jun and Chen, Tianfei, “Temporal-spatial filtered super resolution image edge measuring approach for visual inspection system,” Engineering Research Express, 2026.
+
+
+- **Robotics & Control**
 
 [1] S. Zhang, Y. Qiu, M. Hou, **X. Wu**, H. Zhang, and J. Wang, “Design of a fast model predictive controller based on the fully actuated system approach,” Control Eng. Pract., vol. 169, p. 106762, Apr. 2026.(SCI)
 
@@ -23,7 +28,7 @@ author_profile: true
 
 ## 2025
 
-**- CV & Sensing -**
+- **CV & Sensing**
 
 [1] **X. WU**, Y. Ma, S. Zhang, T. Chen, and H. Jiang, “Yo3RL-Net:A fusion of two-phase end-to-end deep net framework for hand detection and gesture recognition,” Alexandria Engineering Journal, 2025.(SCI)
 
@@ -33,14 +38,14 @@ author_profile: true
 
 [4] Y. Cao, Y. Zhao, **X. Wu**, M. Tang, and C. Gu, “An improved YOLOv5-based method for robotic vision detection of grain caking in silos,” Journal of Measurements in Engineering, Feb. 2025.（EI）
 
-**- Robotics & Control -**
+- **Robotics & Control**
 
 [1] **X. Wu**, J. Zhang, J. Wang, S. Zhang, and T. Chen, “A Dynamic State Feedback Based Control Strategy and Simulation for Massively Interrelated Power System with Multi-overlapping Distributed limited-time Connectivity,” Teh. vjesn., vol. 32, no. 5, Oct. 2025.(SCI)
 
 [2] 魏世博, **吴翔**, 王瞧, 牛群峰和樊广晓, 《基于麻雀算法优化的lqr农机横向跟踪控制方法》, 中国农机化学报, 卷 46, 期 6, 2025.（中文核心期刊）
 
 
-**- Interdisciplinary Collaboration & Application -**
+- **Interdisciplinary Collaboration & Application**
 
 [1] Y. Cao, H. Jiang, et al., **X. Wu**, “Ecological Wisdom Study of the Han Dynasty Settlement Site in Sanyangzhuang Based on Landscape Archaeology,” Heritage, vol. 8, no. 11, p. 466, Nov. 2025. (SCI)
 
@@ -52,13 +57,13 @@ author_profile: true
 
 ## 2024
 
-**- CV & Sensing -**
+- **CV & Sensing**
 
 [1] **X. Wu**, J. Wang, Z. Zhang, Y. Zheng, Y. Tan, and B. Guo, “A precision measuring approach of shaft edge using dual-stage sub-pixel detection with lighting compensation,” Computer Fraud and Security, vol.2024, iss:12, pp.214-226,2024.(EI)
 
 [2] Y. Ma, **X. Wu**, H. Lian, Y. Gao, J. Wang, and Y. Qiu, “A human motion detection algorithm based on improved yolov5s and ST-GCN,” Proceedings of the 36th Chinese Control and Decision Conference, CCDC 2024, pp. 2638–2643, 2024.(EI)
 
-**- Robotics & Control -**
+- **Robotics & Control**
 
 [1] Y. Qiu, S. Zhang, **X. Wu**, H. Zhang, and T. Yang, “Robotic manipulator control based on disturbance observer: A high-order fully actuated system approach,” Proceedings of the 3rd Conference on Fully Actuated System Theory and Applications, FASTA 2024, pp. 116–120, 2024.(EI)
 
@@ -67,7 +72,7 @@ author_profile: true
 
 ## 2023
 
-**- CV & Sensing -**
+- **CV & Sensing**
 
 [1] **X. Wu**, Y. Ma, H. Lian, X. Fang, and T. Chen, “Clustering optimized portrait matting algorithm based on improved sparrow algorithm,” Tehnicki Vjesnik, vol. 30, no. 6, pp. 1911–1919, 2023.(SCI)
 
@@ -77,21 +82,19 @@ author_profile: true
 
 [4] X. Fang, **X. Wu**, Y. Ma, H. Lian, and Y. Song, “Saliency improved yolov5s algorithm for defect detection of overhead line insulator,” Journal of Network Intelligence, vol. 8, no. 3, pp. 791–806, 2023.(EI)
 
-**- Interdisciplinary Collaboration & Application -**
-
-[1] **X. Wu**, D. Shao, Y. Wu, G. Shao, Q. Huang, and R. Chen, “A cloud-based photographing system with adaptive image quality promotion,” 2023 IEEE International Conference on Control, Electronics and Computer Technology, ICCECT 2023, pp. 1471–1478, 2023.(EI)
-
+[5] **X. Wu**, D. Shao, Y. Wu, G. Shao, Q. Huang, and R. Chen, “A cloud-based photographing system with adaptive image quality promotion,” 2023 IEEE International Conference on Control, Electronics and Computer Technology, ICCECT 2023, pp. 1471–1478, 2023.(EI)
 
 
 ## 2022
 
-**- CV & Sensing -**
+- **CV & Sensing**
 
 [1] **X. Wu**, H. Lian, X. Bao, S. Zhang, and T. Chen, “Using enhanced reordered census transform for semiglobal stereo matching algorithm,” Mobile Information Systems, vol. 2022, 2022.(SCI)
 
-**- Robotics & Control -**
+- **Robotics & Control**
 
 [1] P. Li, **X. Wu**, X. Chsen, and J. Qiu, “Distributed adaptive finite-time tracking for multi-agent systems and its application,” Neurocomputing, vol. 481, pp. 46–54, 2022.(SCI)
+
 
 ## 2010-2019
 [1] Y. Cao, J. Gu, Y. Zang, **X. Wu**, S. Zhang, and M. Guo, “Path planning-oriented obstacle avoidingworkspace modelling for robot manipulator,” International Journal of Robotics and Automation, vol. 34, no. 1, pp. 1–16, 2019.(SCI)
